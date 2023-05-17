@@ -12,7 +12,7 @@ namespace NewOne
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Yo I'm a bean");
-
+            Console.WriteLine("This is a test doc so any public people just ignore this lol!");
         }
     }
 }
