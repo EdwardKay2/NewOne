@@ -11,6 +11,8 @@ namespace NewOne
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Yo I'm a bean");
+
         }
     }
 }
